@@ -6,13 +6,13 @@ For more information, please refer to the following: (https://doi.org/10.1016/j.
 
 ## Citation
 
-@article{YANG2025109274,
-	title = {A Novel Fourier Feature Network for Solving Partial Differential Equations},
-	journal = {Communications in Nonlinear Science and Numerical Simulation},
-	pages = {109274},
-	year = {2025},
-	issn = {1007-5704},
-	doi = {https://doi.org/10.1016/j.cnsns.2025.109274},
-	url = {https://www.sciencedirect.com/science/article/pii/S1007570425006847},
-	author = {Qihong Yang and Zhijie Su and Yangtao Deng and Qiaolin He}
-}
+	@article{YANG2025109274,
+		title = {A Novel Fourier Feature Network for Solving Partial Differential Equations},
+		journal = {Communications in Nonlinear Science and Numerical Simulation},
+		pages = {109274},
+		year = {2025},
+		issn = {1007-5704},
+		doi = {https://doi.org/10.1016/j.cnsns.2025.109274},
+		url = {https://www.sciencedirect.com/science/article/pii/S1007570425006847},
+		author = {Qihong Yang and Zhijie Su and Yangtao Deng and Qiaolin He}
+	}
